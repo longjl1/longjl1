@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript, Python, ML, etc.
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me? -> Longjl1@uci.edu ^^)
-- 📺 Streaming: N/A 
+- 📺 Streaming: https://www.twitch.tv/a_badwoman
 
 <!---
 longjl1/longjl1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
