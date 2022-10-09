@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @longjl1
+- 👋 Hi, I’m Longji @longjl1
+- 🎓 Student at University of California, Irvine, majoring Human Computer Interaction
 - 👀 I’m interested in Game Development/ HCI/ League of Legends
 - 🌱 I’m currently learning JavaScript, Python, ML, etc.
 - 💞️ I’m looking to collaborate on any interesting project.
