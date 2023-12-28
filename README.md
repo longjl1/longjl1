@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Longjl1 @longjl1
+- 🎓 Student at the Tufts University, majoring in Computer Science (M.S)
 - 🎓 Student at the University of California, Irvine, majoring in Human-Computer Interaction (B.S)
 - 👀 I’m interested in HCI/ Machine Learning
 - 🌱 I’m currently learning JavaScript, Python, ML, etc.
