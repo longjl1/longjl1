@@ -54,6 +54,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+![longjl1's Stats](https://github-readme-stats.vercel.app/api?username=longjl1&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 <br clear="both">
 
