@@ -54,6 +54,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-![longjl1's Stats](https://github-readme-stats.vercel.app/api?username=longjl1&theme=vue&show_icons=true&hide_border=true&count_private=true)
 ![longjl1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=longjl1&theme=vue&hide_border=true)
 ###
