@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m Longjl1 @longjl1<br>- 🎓 Student at the Tufts University, majoring in Computer Science (M.S)<br>- 🎓 Student at the University of California, Irvine, majoring in Human-Computer Interaction (B.S)<br>- 👀 I’m interested in HCI/ Machine Learning<br>- 🌱 I’m currently learning JavaScript, Python, ML, etc.<br>- 💞️ I’m looking to collaborate on any interesting project.<br>- 📫 How to reach me? -> Longjl1@uci.edu ^^)<br>- ✨ Streaming: https://www.twitch.tv/ladywbluehair</p>
+<p align="left"> >_ HELLO</p>
 
 ###
 
