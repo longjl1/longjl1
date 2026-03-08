@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hello 👋</h1>
+<h1 align="center"> Hello 👋</h1>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left"> >_ HELLO</p>
+<p align="left"> Previous HCI Now Humanoid Decentralization Interaction </p>
 
 ###
 
