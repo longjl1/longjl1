@@ -1,1 +1,1 @@
-Not confused Not stressed Not hurt.
+Not stressed
