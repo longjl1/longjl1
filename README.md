@@ -1,1 +1,1 @@
-Not stressed
+Not stressed, but unsaid. 
